@@ -1,0 +1,2 @@
+# mnr_npcs
+[BETA EXPERIMENTAL RESOURCE]
