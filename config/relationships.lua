@@ -1,0 +1,18 @@
+return {
+    [`AMBIENT_GANG_BALLAS`] = 1,
+    [`AMBIENT_GANG_FAMILY`] = 1,
+    [`AMBIENT_GANG_HILLBILLY`] = 1,
+    [`AMBIENT_GANG_LOST`] = 1,
+    [`AMBIENT_GANG_MARABUNTE`] = 1,
+    [`AMBIENT_GANG_MEXICAN`] = 1,
+    [`AMBIENT_GANG_SALVA`] = 1,
+    [`AMBIENT_GANG_LOST`] = 1,
+    [`COP`] = 1,
+    [`FIREMAN`] = 1,
+    [`GANG_1`] = 1,
+    [`GANG_2`] = 1,
+    [`GANG_9`] = 1,
+    [`GANG_10`] = 1,
+    [`MEDIC`] = 1,
+    [`PRISONER`] = 1,
+}

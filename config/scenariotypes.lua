@@ -1,0 +1,12 @@
+return {
+    ["WORLD_VEHICLE_AMBULANCE"] = false,
+    ["WORLD_VEHICLE_FIRE_TRUCK"] = false,
+    ["WORLD_VEHICLE_HELI_LIFEGUARD"] = false,
+    ["WORLD_VEHICLE_MILITARY_PLANES_BIG"] = false,
+    ["WORLD_VEHICLE_MILITARY_PLANES_SMALL"] = false,
+    ["WORLD_VEHICLE_POLICE"] = false,
+    ["WORLD_VEHICLE_POLICE_BIKE"] = false,
+    ["WORLD_VEHICLE_POLICE_CAR"] = false,
+    ["WORLD_VEHICLE_POLICE_NEXT_TO_CAR"] = false,
+    ["WORLD_VEHICLE_SECURITY_CAR"] = false,
+}
