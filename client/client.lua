@@ -35,9 +35,3 @@ end
 for scenarioType, toggle in pairs(scenarioTypes) do
     SetScenarioTypeEnabled(scenarioType, toggle)
 end
-
-AddEventHandler("populationPedCreating", function(x, y, z)
-    Wait(1000)
-    local _, npc = GetClosestPed(x, y, z, 1.0)
-    SetPedDropsWeaponsWhenDead(npc, false)
-end)
